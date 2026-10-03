@@ -1,8 +1,0 @@
-{
-  "agent_id": "bft-consensus-liveness-watchdog",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
