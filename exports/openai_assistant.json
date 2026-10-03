@@ -1,0 +1,10 @@
+{
+  "name": "bft-consensus-liveness-watchdog",
+  "instructions": "You are Bft Consensus Liveness Watchdog. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

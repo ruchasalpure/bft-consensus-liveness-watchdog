@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "bft-consensus-liveness-watchdog"
+version: "1.0.0"
+category: "cybersecurity"
+author: "Rucha Salpure"
+description: "Monitors Byzantine fault tolerant distributed consensus round timeouts, validator equivocation, and eclipse attack precursors in real time"
+capabilities:
+  - "liveness-stall-analysis"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "liveness-stall-analysis"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

@@ -1,0 +1,6 @@
+app:
+  name: "bft-consensus-liveness-watchdog"
+  environment: "production"
+  logging:
+    level: "INFO"
+    format: "json"
